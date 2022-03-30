@@ -1,0 +1,11 @@
+Model Information:
+* title:	MC80 Liberty Type Star Cruiser
+* source:	https://sketchfab.com/3d-models/mc80-liberty-type-star-cruiser-bde70f99d7544fcd9bab766f700dcd7c
+* author:	lightwarrior (https://sketchfab.com/lightwarrior)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "MC80 Liberty Type Star Cruiser" (https://sketchfab.com/3d-models/mc80-liberty-type-star-cruiser-bde70f99d7544fcd9bab766f700dcd7c) by lightwarrior (https://sketchfab.com/lightwarrior) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
