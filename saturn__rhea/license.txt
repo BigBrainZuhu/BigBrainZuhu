@@ -1,0 +1,11 @@
+Model Information:
+* title:	Saturn & Rhea
+* source:	https://sketchfab.com/3d-models/saturn-rhea-64365cb84f7b42178b7bb84a45bad14f
+* author:	edsontales (https://sketchfab.com/edsontales)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Saturn & Rhea" (https://sketchfab.com/3d-models/saturn-rhea-64365cb84f7b42178b7bb84a45bad14f) by edsontales (https://sketchfab.com/edsontales) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
